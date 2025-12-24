@@ -2,10 +2,8 @@
 ### AI-Driven Adaptive Sorting System with KUKA IIWA
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
-![PyBullet](https://img.shields.io/badge/Sim-PyBullet-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Operational-green?style=for-the-badge)
+![PyBullet](https://img.shields.io/badge/Sim-PyBullet-orange)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 
 </div>
 
