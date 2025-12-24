@@ -1,6 +1,4 @@
-<div align="center">
-
-# 🦾 Smart Warehouse Bot
+# Smart Warehouse Robotic Arm
 ### AI-Driven Adaptive Sorting System with KUKA IIWA
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
